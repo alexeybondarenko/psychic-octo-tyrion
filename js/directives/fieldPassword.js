@@ -17,7 +17,6 @@ App.directive('fieldPassword', function () {
             iconEl.bind('click', function () {
                 console.log('field password');
                 toggleType();
-
             });
         }
     }
