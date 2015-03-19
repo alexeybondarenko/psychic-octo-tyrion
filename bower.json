@@ -1,0 +1,6 @@
+{
+  "name": "Bestwallet new master",
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
+}
