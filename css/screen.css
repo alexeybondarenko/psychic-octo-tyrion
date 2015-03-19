@@ -191,7 +191,7 @@ a { text-decoration: none; color: #fff; }
 .field.field_w120 { width: 85px; }
 .field.field_password .input, .field.field_user .input, .field.field_rub .input { padding: 0 70px 0 30px; }
 .field.field_password .icon, .field.field_user .icon, .field.field_rub .icon { position: absolute; }
-.field.field_password .icon-eye { top: 22px; right: 22px; color: #bababa; font-size: 13.5px; }
+.field.field_password .icon { top: 22px; right: 22px; color: #bababa; font-size: 13.5px; }
 .field.field_user .icon-user { top: 22px; right: 24px; font-size: 24px; color: #ff3e4b; }
 .field.field_rub .icon-rub { top: 20px; right: 31px; font-size: 16.5px; color: #ff3e4b; }
 .field.field_rub.field_border-gray .icon-rub { color: #bababa; }
