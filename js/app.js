@@ -21,7 +21,8 @@ App.config(function ($stateProvider, $urlRouterProvider) {
         })
         .state('permissions-request', {
             url: '/permissions-request',
-            templateUrl: 'views/permissions-request.html'
+            templateUrl: 'views/permissions-request.html',
+            controller: 'PermissionsRequestController'
         })
         .state('receive-transfer', {
             url: '/receive-transfer',

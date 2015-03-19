@@ -12,7 +12,6 @@ App.directive('accord', function () {
             return {
                 post: function (scope, elem, attrs) {
                     els.bind('click', function () {
-                        console.log(this);
                         els.removeClass(activeClass);
                         angular.element(this).addClass(activeClass);
                     });
