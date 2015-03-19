@@ -12,7 +12,8 @@ App.config(function ($stateProvider, $urlRouterProvider) {
         })
         .state('signin', {
             url: '/signin',
-            templateUrl: 'views/signin.html'
+            templateUrl: 'views/signin.html',
+            controller: 'SigninController'
         })
         .state('money-transfer', {
             url: '/money-transfer',
